@@ -1,0 +1,12 @@
+.ui-widget-content{
+    background: #fff;
+    border-color: #6b6b6b;
+}
+.ui-slider-handle {
+    background: #c1c2c4;
+    border-radius: 0.6em;
+}
+.ui-slider-range {
+    background: #81aaf9;
+
+}
